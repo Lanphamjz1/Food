@@ -3,3 +3,6 @@
     "aos": "^2.3.4"
   }
 }
+"scripts": {
+  "start": "node server.js"
+}
